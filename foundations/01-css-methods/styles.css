@@ -4,7 +4,8 @@ div {
     background-color: red;
     color: white;
     font-size: 32px;
-    margin: center;
+    margin: auto;
+    text-align: center;
     font-weight: bold;
     
     
